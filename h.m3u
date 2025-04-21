@@ -1,5 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="###### RELAX 4K ######" tvg-logo="" group-title="RX| RELAX 4K ☼",###### RELAX 4K ######
 #EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="8K: beIN SP⚽RTS GLOBAL SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="AR| BEIN SPORTS ⁸ᴷ & SD ⚽",8K: beIN SP⚽RTS GLOBAL SD
 http://cf.business-cdn.me:80/test/8ecf6b2ca9/544475
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="8K: beIN SP⚽RTS 1 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="AR| BEIN SPORTS ⁸ᴷ & SD ⚽",8K: beIN SP⚽RTS 1 SD
